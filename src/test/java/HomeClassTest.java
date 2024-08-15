@@ -17,7 +17,7 @@ public class HomeClassTest extends DriverManager {
     public void testLogin() {
 
         HomePage homePage = new HomePage(driver);
-        homePage.enterSearch("testuser");
+        homePage.enterSearch("What is Selenium");
     }
 
     @AfterMethod(alwaysRun = true)
