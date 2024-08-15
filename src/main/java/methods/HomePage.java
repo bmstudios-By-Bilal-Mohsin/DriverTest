@@ -15,6 +15,7 @@ public class HomePage {
     }
 
     public void enterSearch(String username) {
+
         driver.findElement(searchField).sendKeys(username);
     }
 }
