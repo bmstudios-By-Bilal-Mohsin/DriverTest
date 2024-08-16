@@ -10,7 +10,6 @@ public class HomeBody {
     @FindBy(id = "APjFqb")
     public WebElement searchField;
 
-
     public HomeBody(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }

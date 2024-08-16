@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7945eda3-b659-40fe-8c1c-b762407b4ee0" name="Changes" comment="Edited search command">
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    <list default="true" id="7945eda3-b659-40fe-8c1c-b762407b4ee0" name="Changes" comment="added Pdge Factory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Body/HomeBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Body/HomeBody.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723743113481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Pdge Factory">
+      <option name="closed" value="true" />
+      <created>1723813281885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723813281885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -55,6 +64,7 @@
     <MESSAGE value="Final Framework. Have to Add body classes in next commit" />
     <MESSAGE value="Edited search command" />
     <MESSAGE value="added browsers" />
-    <option name="LAST_COMMIT_MESSAGE" value="added browsers" />
+    <MESSAGE value="added Pdge Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Pdge Factory" />
   </component>
 </project>
